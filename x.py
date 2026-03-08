@@ -33,7 +33,7 @@ def start(message):
 
     bot.send_message(
         message.chat.id,
-        "⚠️ Bot use karne ke liye pehle main channel join karo.\n\nJoin karne ke baad 'Joined / Verify' dabao.",
+        "𝗜𝗦 𝗕𝗢𝗧 𝗠𝗘 𝗠𝗘𝗥𝗘 𝗦𝗔𝗕 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗞𝗜 𝗟𝗜𝗡𝗞 𝗛𝗔𝗜 ♥\n\n𝗦𝗔𝗕𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗝𝗢𝗜𝗡 𝗞𝗔𝗥𝗢 𝗬𝗧 𝗣𝗘𝗥 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝗞𝗔𝗥𝗢 ♥",
         reply_markup=markup
     )
 
